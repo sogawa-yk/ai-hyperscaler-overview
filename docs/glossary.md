@@ -201,8 +201,8 @@
 **定義**: Azureの基盤モデル／AIアプリ基盤（旧 Azure AI Studio → AI Foundry → Microsoft Foundry。確認日付きで扱う）。
 **初出**: 第4章
 
-### Vertex AI
-**定義**: Google CloudのML／生成AI統合プラットフォーム。
+### Gemini Enterprise Agent Platform（旧 Vertex AI）
+**定義**: Google CloudのML／生成AI統合プラットフォーム。2026-04-22（Cloud Next 26）にVertex AIから改称。Vertex AI Search や Agent Builder 等の機能名は当面併用される。
 **初出**: 第4章
 
 ### OCI Generative AI
