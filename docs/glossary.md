@@ -133,8 +133,8 @@
 **初出**: 第2章
 
 ### OKE
-**英語**: Oracle Kubernetes Engine（Oracle Container Engine for Kubernetes）
-**定義**: OCIのマネージドKubernetes。
+**英語**: Oracle Container Engine for Kubernetes
+**定義**: OCIのマネージドKubernetes。公式名称は「Container Engine for Kubernetes」、略称OKE。
 **初出**: 第2章
 
 ### サーバーレスコンテナ (Serverless Container)
