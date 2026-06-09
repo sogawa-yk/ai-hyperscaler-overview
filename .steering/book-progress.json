@@ -3,8 +3,8 @@
   "total_chapters": 9,
   "env": "none",
   "chapters": {
-    "00": { "status": "committing", "step": "committing", "completed_at": null },
-    "01": { "status": "pending", "step": null, "completed_at": null },
+    "00": { "status": "done", "step": "done", "completed_at": "2026-06-09T10:55:00" },
+    "01": { "status": "committing", "step": "committing", "completed_at": null },
     "02": { "status": "pending", "step": null, "completed_at": null },
     "03": { "status": "pending", "step": null, "completed_at": null },
     "04": { "status": "pending", "step": null, "completed_at": null },
