@@ -7,8 +7,8 @@
     "01": { "status": "done", "step": "done", "completed_at": "2026-06-09T11:10:00" },
     "02": { "status": "done", "step": "done", "completed_at": "2026-06-09T11:25:00" },
     "03": { "status": "done", "step": "done", "completed_at": "2026-06-09T11:45:00" },
-    "04": { "status": "committing", "step": "committing", "completed_at": null },
-    "05": { "status": "pending", "step": null, "completed_at": null },
+    "04": { "status": "done", "step": "done", "completed_at": "2026-06-09T12:10:00" },
+    "05": { "status": "committing", "step": "committing", "completed_at": null },
     "06": { "status": "pending", "step": null, "completed_at": null },
     "90": { "status": "pending", "step": null, "completed_at": null },
     "99": { "status": "pending", "step": null, "completed_at": null }
